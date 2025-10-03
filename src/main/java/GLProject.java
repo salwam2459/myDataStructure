@@ -1,8 +1,6 @@
 /* ----------------------------------------------
  * Author: Salwa A. Majeed
- * NetID: smaje4
- * Email: smaje4@uic.edu
- * CS 342 Project 1 Overview: Implementation of a custom data structure library including
+ * Overview: Implementation of a custom data structure library including
  * GenericQueue (FIFO linked list) and MyHashMap (hash table with collision resolution)
  * using separate chaining. Includes iterator design pattern for traversal.
  ------------------------------------------------*/
